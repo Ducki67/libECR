@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Configuration Name="Debug" />
+    <Configuration Name="Release" />
+  </Configurations>
+  <Project Path="ECR\ECR.vcxproj" Id="b1b2c3d4-e5f6-4789-abcd-000000000001" />
+  <Project Path="examples\example_dll.vcxproj" Id="c1b2c3d4-e5f6-4789-abcd-000000000002" />
+</Solution>
